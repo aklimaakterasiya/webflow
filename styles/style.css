@@ -1,0 +1,32 @@
+/* nav style  */
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 150px 50px 150px 50px;
+}
+
+h3{
+    font-size: 34px;
+    font-weight: 900;
+    color: #4E47FF;
+}
+
+.template{
+    text-align: center;
+    gap: 37px;
+}
+
+/* shard style  */
+
+.btn-primary{
+    font-size: 16px;
+    font-weight: 700;
+    text-align: center;
+    color: white;
+    background-color: #4E47FF;
+    border-radius: 5px;
+    width: 132px;
+    height: 48px;
+}
