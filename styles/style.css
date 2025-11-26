@@ -1,3 +1,14 @@
+
+body{
+    background-color: rgba(245, 248, 255, 1);
+}
+
+header{
+   background-image: url("/Image/Hero-bg.png");
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
 /* nav style  */
 
 nav{
@@ -5,6 +16,7 @@ nav{
     justify-content: space-between;
     align-items: center;
     padding: 150px 50px 150px 50px;
+
 }
 
 h3{
