@@ -42,3 +42,11 @@ h3{
     width: 132px;
     height: 48px;
 }
+
+/* action section  */
+
+.action{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
