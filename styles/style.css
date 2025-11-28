@@ -49,6 +49,17 @@ font-weight: 700;
 
 /* action section  */
 
-.action{
-    
+.action h3{
+font-size: 40px;
+color: rgba(37, 36, 50, 1);
+}
+
+.image{
+    border-radius: 48px;
+}
+
+.webflew{
+    align-items: center;
+    padding-top: 116px;
+    padding: 114px;
 }
