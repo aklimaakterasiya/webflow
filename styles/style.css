@@ -3,6 +3,11 @@ body{
     background-color: rgba(245, 248, 255, 1);
     font-family: "Raleway", sans-serif;
 }
+
+main{
+    width: 1140px;
+    margin: auto;
+}
     
 /* nav style  */
 
@@ -15,6 +20,11 @@ body{
     justify-content: space-between;
     padding: 20px;
     align-items: center;
+}
+
+nav{
+    width: 1140px;
+    margin: auto;
 }
 
 
@@ -61,5 +71,4 @@ color: rgba(37, 36, 50, 1);
 .webflew{
     align-items: center;
     padding-top: 116px;
-    padding: 114px;
 }
