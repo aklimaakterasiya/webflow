@@ -93,3 +93,10 @@ h1 {
     color: rgba(78, 71, 255, 1);
     margin: 0;
 }
+
+/* Review section  */
+
+.avater{
+    display: flex;
+    gap: 6px;
+}
