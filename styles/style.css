@@ -100,3 +100,7 @@ h1 {
     display: flex;
     gap: 6px;
 }
+
+.avater img{
+    border-radius: var(--Radius-Full, 9999px);
+}
