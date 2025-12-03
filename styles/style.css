@@ -112,14 +112,46 @@ h1 {
     gap: 6px;
 }
 
+.review h3{
+    color: rgba(37, 36, 50, 1);
+    font-size: 42px;
+    font-weight: 700;
+    text-align: center;
+}
+
 .avater p{
     margin: 0px;
 }
 
 .avater img {
-    border-radius: 9999px;
+    border-radius: 50%;
     width: 40px;
     height: 40px;
+}
+
+.love{
+    font-size: 24px;
+    color: rgba(30, 30, 30, 1);
+    font-weight: 600;
+}
+
+.template{
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(30, 30, 30, 1);
+}
+
+.name{
+    font-size: 16px;
+    font-weight: 600;
+    color: rgba(117, 117, 117, 1);
+}
+
+.date{
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(179, 179, 179, 1);
+    padding-top: 4px;
 }
 
 
@@ -129,6 +161,8 @@ h1 {
     text-align: center;
     background-color: rgba(255, 255, 255, 1);
     border-radius: 14px;
+    padding: 70px 0;
+    margin: 140px 0 100px;
 }
 
 .better h3 {
